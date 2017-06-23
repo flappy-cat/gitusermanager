@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/usermanager.iml" filepath="$PROJECT_DIR$/usermanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermanagercomponent/usermanagercomponent.iml" filepath="$PROJECT_DIR$/usermanagercomponent/usermanagercomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermanagerutils/usermanagerutils.iml" filepath="$PROJECT_DIR$/usermanagerutils/usermanagerutils.iml" />
+    </modules>
+  </component>
+</project>
